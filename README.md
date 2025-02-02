@@ -1,3 +1,4 @@
+![logo](https://github.com/MohitNath007/MohitNath007/blob/main/Mohit%20Nath%20(1).png)
 <h1 align="center">Hi 👋, I'm Mohit Nath</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
